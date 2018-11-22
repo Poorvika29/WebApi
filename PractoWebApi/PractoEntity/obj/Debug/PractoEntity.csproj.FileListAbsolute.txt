@@ -1,0 +1,6 @@
+C:\Users\Poorvika Ujjaini\source\repos\PractoWebApi\PractoEntity\bin\Debug\PractoEntity.dll
+C:\Users\Poorvika Ujjaini\source\repos\PractoWebApi\PractoEntity\bin\Debug\PractoEntity.pdb
+C:\Users\Poorvika Ujjaini\source\repos\PractoWebApi\PractoEntity\obj\Debug\PractoEntity.csprojAssemblyReference.cache
+C:\Users\Poorvika Ujjaini\source\repos\PractoWebApi\PractoEntity\obj\Debug\PractoEntity.csproj.CoreCompileInputs.cache
+C:\Users\Poorvika Ujjaini\source\repos\PractoWebApi\PractoEntity\obj\Debug\PractoEntity.dll
+C:\Users\Poorvika Ujjaini\source\repos\PractoWebApi\PractoEntity\obj\Debug\PractoEntity.pdb
